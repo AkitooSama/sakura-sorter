@@ -1,0 +1,25 @@
+name: Purple
+fonts:
+  main: "Press Start 2P"
+  monospace: "JetBrains Mono"
+colors:
+  bg_start: "#dcb3ff"
+  bg_end: "#7a2ccf"
+  text: "#ffffff"
+  button: "#9d4edd"
+  button_hover: "#5a189a"
+  border: "#5a189a"
+  input_bg: "#c084fc"
+  input_text: "#ffffff"
+  list_bg: "#dcb3ff"
+  list_text: "#ffffff"
+radius:
+  button: 4
+  input: 4
+  list: 4
+effects:
+  glow: true
+  shadow: false
+cursor:
+  pointer_on_buttons: true
+  pointer_on_list: true

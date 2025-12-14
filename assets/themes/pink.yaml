@@ -1,0 +1,25 @@
+name: Pink
+fonts:
+  main: "Press Start 2P"
+  monospace: "JetBrains Mono"
+colors:
+  bg_start: "#ff9ecb"
+  bg_end: "#ff6fa3"
+  text: "#ffffff"
+  button: "#ff3b8e"
+  button_hover: "#ff1c77"
+  border: "#ff1c77"
+  input_bg: "#ffb3c9"
+  input_text: "#ffffff"
+  list_bg: "#ff9ecb"
+  list_text: "#ffffff"
+radius:
+  button: 4
+  input: 4
+  list: 4
+effects:
+  glow: true
+  shadow: false
+cursor:
+  pointer_on_buttons: true
+  pointer_on_list: true

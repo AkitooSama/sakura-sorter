@@ -1,0 +1,25 @@
+name: Orange
+fonts:
+  main: "Press Start 2P"
+  monospace: "JetBrains Mono"
+colors:
+  bg_start: "#ffd6a5"
+  bg_end: "#fb5607"
+  text: "#ffffff"
+  button: "#ff6d00"
+  button_hover: "#c43c00"
+  border: "#c43c00"
+  input_bg: "#ff9e4a"
+  input_text: "#ffffff"
+  list_bg: "#ffd6a5"
+  list_text: "#ffffff"
+radius:
+  button: 4
+  input: 4
+  list: 4
+effects:
+  glow: true
+  shadow: false
+cursor:
+  pointer_on_buttons: true
+  pointer_on_list: true

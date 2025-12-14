@@ -1,0 +1,25 @@
+name: Blue
+fonts:
+  main: "Press Start 2P"
+  monospace: "JetBrains Mono"
+colors:
+  bg_start: "#a0c4ff"
+  bg_end: "#4361ee"
+  text: "#ffffff"
+  button: "#3a86ff"
+  button_hover: "#023e8a"
+  border: "#023e8a"
+  input_bg: "#7da9ff"
+  input_text: "#ffffff"
+  list_bg: "#a0c4ff"
+  list_text: "#ffffff"
+radius:
+  button: 4
+  input: 4
+  list: 4
+effects:
+  glow: true
+  shadow: false
+cursor:
+  pointer_on_buttons: true
+  pointer_on_list: true

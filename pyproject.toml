@@ -1,0 +1,14 @@
+[project]
+name = "sakura-sorter"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pyqt6>=6.10.1",
+    "pyyaml>=6.0.3",
+    "watchdog>=6.0.0",
+]
+
+[project.scripts]
+sakura-sorter = "sakura_sorter.__main__:main"

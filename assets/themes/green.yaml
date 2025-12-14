@@ -1,0 +1,25 @@
+name: Green
+fonts:
+  main: "Press Start 2P"
+  monospace: "JetBrains Mono"
+colors:
+  bg_start: "#b9fbc0"
+  bg_end: "#32a852"
+  text: "#ffffff"
+  button: "#2b9348"
+  button_hover: "#1b512d"
+  border: "#1b512d"
+  input_bg: "#a3e4a1"
+  input_text: "#ffffff"
+  list_bg: "#b9fbc0"
+  list_text: "#ffffff"
+radius:
+  button: 4
+  input: 4
+  list: 4
+effects:
+  glow: true
+  shadow: false
+cursor:
+  pointer_on_buttons: true
+  pointer_on_list: true
