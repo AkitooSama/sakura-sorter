@@ -1,6 +1,6 @@
 from PyQt6.QtWidgets import QApplication
 import sys
-from ui.app import SakuraApp
+from sakura_sorter.ui.app import SakuraApp
 
 def main():
     app = QApplication(sys.argv)
@@ -9,3 +9,6 @@ def main():
     sakura.run()
     
     sys.exit(app.exec())
+    
+if __name__ == "__main__":
+    main()

@@ -1,6 +1,6 @@
 import yaml
 from pathlib import Path
-from core.config import THEME_DIR
+from sakura_sorter.core.config import THEME_DIR
 from PyQt6.QtCore import Qt
 from PyQt6.QtGui import QFontDatabase, QColor, QCursor
 from PyQt6.QtWidgets import QGraphicsDropShadowEffect, QPushButton, QListWidget, QLineEdit

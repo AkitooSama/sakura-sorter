@@ -1,5 +1,5 @@
-from ui.main_window import MainWindow
-from core.state import AppState
+from sakura_sorter.ui.main_window import MainWindow
+from sakura_sorter.core.state import AppState
 
 
 class SakuraApp:

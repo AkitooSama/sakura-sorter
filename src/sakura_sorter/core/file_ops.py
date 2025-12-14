@@ -1,7 +1,7 @@
 from pathlib import Path
 import shutil
-from core.tags import strip
-from core import history
+from sakura_sorter.core.tags import strip
+from sakura_sorter.core import history
 import traceback
 
 def unique(path: Path) -> Path:

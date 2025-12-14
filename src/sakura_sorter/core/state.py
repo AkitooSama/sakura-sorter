@@ -1,5 +1,5 @@
 import json
-from core.config import SETTINGS_FILE
+from sakura_sorter.core.config import SETTINGS_FILE
 
 class AppState:
     def __init__(self):

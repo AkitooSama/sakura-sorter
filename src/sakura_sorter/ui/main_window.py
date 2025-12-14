@@ -5,13 +5,13 @@ from PyQt6.QtWidgets import (
 )
 from PyQt6.QtGui import QIcon, QAction
 from watchdog.observers import Observer
-from core.config import ICON, THEME_DIR
-from core.history import delete_all_history, delete_entry_by_id, search_history
-from core.watcher import SortHandler
+from sakura_sorter.core.config import ICON, THEME_DIR
+from sakura_sorter.core.history import delete_all_history, delete_entry_by_id, search_history
+from sakura_sorter.core.watcher import SortHandler
 from pathlib import Path
 from typing import Optional
-from ui.notifier import Notifier
-from ui.theme import Theme
+from sakura_sorter.ui.notifier import Notifier
+from sakura_sorter.ui.theme import Theme
 import json
 
 

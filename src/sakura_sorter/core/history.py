@@ -1,7 +1,7 @@
 import sqlite3
 from pathlib import Path
 from datetime import datetime, timezone
-from core.config import CONFIG_DIR
+from sakura_sorter.core.config import CONFIG_DIR
 
 HISTORY_DB_FILE = CONFIG_DIR / "history.db"
 
